@@ -1,0 +1,20 @@
+{
+  "name": "tasktracker",
+  "version": "1.0.0",
+  "description": "Command line task-tracker application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "task tracker",
+    "command-line"
+  ],
+  "author": "Sabari Vijayan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.22"
+  }
+}
