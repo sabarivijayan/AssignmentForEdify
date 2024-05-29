@@ -1,6 +1,6 @@
 # Node.js Command-Line Task Tracker
 
-A command-line task tracker application built with Node.js that allows users to add, list, complete, and remove tasks. The tasks are stored in a `tasks.json` file and have properties like `id`, `title`, `description`, `status`, and `createdAt`.
+A command-line task tracker application built with Node.js that allows users to add, list, complete, and remove tasks.
 
 ## Features
 
